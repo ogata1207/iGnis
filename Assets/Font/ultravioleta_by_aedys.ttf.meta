@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 817a12440c309be43a3ace59e7f3b936
+timeCreated: 1526004375
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ultravioleta
+  fontNames:
+  - ultravioleta
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

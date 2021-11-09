@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 73b671d65d911b1409bdc5ff3a552f92
+timeCreated: 1526968160
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MisakiMincho
+  fontNames:
+  - MisakiMincho
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
